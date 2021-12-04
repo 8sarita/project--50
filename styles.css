@@ -1,0 +1,133 @@
+.menu {
+
+
+  background-color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: white;
+
+  
+  
+}
+
+.title {
+
+
+  background-color: rgb(202,242,179)
+  ;
+  font-size: 30px;
+  font-family: comic sans ms;
+  color: rgb(223, 6, 187);
+  display: flex;
+  /* justify-content: space-evenly; */
+  
+  
+}
+
+.different {
+  font-family: comic sans ms;
+  background-color: rgb(237,181,158)
+  ;
+  
+  
+  color: rgb(209, 223, 6);
+
+  
+  
+}
+
+
+
+
+
+body {
+  background-color: rgb(211, 107, 107);
+}
+.grid {
+  /* add correct code to place the grid elements 
+  one beside the other equally.   */
+
+  display: flex;
+  
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+  font-family: comic sans ms;
+
+}
+
+.grid img {
+  border: 2px solid black;
+  border-radius: 50px;
+  
+ 
+ 
+   
+ 
+}
+.origami {
+  border-radius: 25px;
+  background-color: rgb(161, 84, 148);
+  margin: 40px;
+
+  width: 300px;
+  font-family:  comic sans ms;
+  padding: 10px;
+ 
+    
+
+}
+
+.origami2 {
+  border-radius: 10px;
+  background-color: rgb(161, 84, 148);
+  margin-left: 450px;
+  margin-top: -260px;
+  width: 310px;
+  height: 190px;
+  
+  font-family:  comic sans ms;
+
+  padding: 10px;
+ 
+
+}
+
+.origami3 {
+  border-radius: 10px;
+  background-color: rgb(161, 84, 148);
+  margin-left: 880px;
+  margin-top: -215px;
+  width: 210px;
+  height: 190px;
+  padding: 10px;
+
+  font-family:  comic sans ms;
+}
+
+.origami4 {
+  border-radius: 40px;
+  background-color: rgb(125, 87, 212);
+  margin-left: 300px;
+  margin-top: -150px;
+  width: 310px;
+  height: 70px;
+  color: rgb(238, 255, 0);
+  font-family:  comic sans ms;
+
+
+}
+
+.type {
+
+  font-family: comic sans ms ;
+  font-size: 20px;
+  color: blueviolet;
+
+}
+
+
+
+
+
